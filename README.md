@@ -1,2 +1,10 @@
 # Thesis_EDA_Markus_Oscar
- All EDA code for the thesis
+                   Authors
+        Markus Nygren & Oscar wikström
+
+
+All EDA code for the thesis
+coursecode = GMI2C8
+Högskolan Dalarna (Dalarna University)
+
+The thesis can be found here (insert link when done)
