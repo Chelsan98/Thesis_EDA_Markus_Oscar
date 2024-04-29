@@ -17,6 +17,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # Copyright for Co2 dataset
 
-Public domain (CC0)
+License = Creative Commons Attribution 4.0 International
 
-https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022?resource=download
+AUTHORS = Andrew, R. M., & Peters, G. P. (2024). The Global Carbon Project's fossil CO2 emissions dataset (2023v43) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10562476
