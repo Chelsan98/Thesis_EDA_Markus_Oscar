@@ -7,4 +7,4 @@
 - Coursecode = GMI2C8
 - Högskolan Dalarna (Dalarna University)
 
-The thesis can be found here (insert link when done)
+The thesis can be found here https://du.diva-portal.org/smash/get/diva2:1883432/FULLTEXT01.pdf
